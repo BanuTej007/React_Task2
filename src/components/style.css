@@ -1,0 +1,36 @@
+body{
+    background: linear-gradient(to right, dodgerblue, lawngreen);
+}
+.box{
+    width: 350px;
+    height: 550px;
+    margin-top: 70px;
+    margin-left: 600px;
+    background-color: #070B26;
+    border-radius: 20px;
+}
+.box-display{
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+    background-color: #172D67;
+    height: 230px;
+}
+button{
+    background: transparent;
+    color: white;
+    font-size: larger;
+    width: 87px;
+    height: 80px;
+    border: 0px;
+}
+input{
+    background: transparent;
+    border: 0px;
+    margin-top: 30px;
+    margin-right: 20px;
+    margin-left: 40px;
+    color: white;
+    width: 80%;
+    font-size: large;
+    text-align: end;
+}
